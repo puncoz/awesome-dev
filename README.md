@@ -30,3 +30,4 @@ Tools and References for the Awesome Developers
 * [Simplified Gitflow Branching Model](http://geshan.com.np/blog/2014/12/do-you-git-your-code-follow-this-simplified-gitflow-model/)
 * [Simple Git workflow is simple](http://blogs.atlassian.com/2014/01/simple-git-workflow-simple/)
 * [The 11 Rules of GitLab Flow](https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow/)
+* [4 Git Tips Beyond the Basics](https://geshan.com.np/blog/2014/07/4-git-tips-beyond-basics/)
